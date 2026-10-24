@@ -1,0 +1,2 @@
+httpx
+google-generativeai # Optional, for GeminiClient
